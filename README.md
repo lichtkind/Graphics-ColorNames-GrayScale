@@ -1,12 +1,12 @@
 ### NAME
 
-    Graphics-ColorNames-Pantone - RGB values of Pantone colors (PMS and Report)
+    Graphics-ColorNames-GrayScale - RGB values of gray colors
 
 ### VERSION
  
-    0.53
+    0.40
 
-[on CPAN](https://metacpan.org/pod/Graphics-ColorNames-Pantone)
+[on CPAN](https://metacpan.org/pod/Graphics-ColorNames-GrayScale)
 
     This is the landing page for the user documentation.
     There is also a download link on the left side under "Tools".
@@ -60,21 +60,19 @@
     Graphics::ColorNames
 
  
-[CHANGES](https://github.com/lichtkind/Graphics-ColorNames-Pantone/blob/main/Changes)
+[CHANGES](https://github.com/lichtkind/Graphics-ColorNames-GrayScale/blob/main/Changes)
 
-[CONTRIBUTING](https://github.com/lichtkind/Graphics-ColorNames-Pantone/blob/main/CONTRIBUTING)
-
-[CONTRIBUTORS](https://metacpan.org/pod/Graphics-ColorNames-Pantone#CONTRIBUTORS)
+[CONTRIBUTING](https://github.com/lichtkind/Graphics-ColorNames-GrayScale/blob/main/CONTRIBUTING)
 
 
 ### AUTHOR
 
-    - Herbert Breunung (lichtkind@cpan.org)
+    Robert Rothenberg <rrwo at cpan.org>
 
 
 ### COPYRIGHT
 
-    Copyright(c) 2022 by Herbert Breunung
+    Copyright(c) 2004-2022 Robert Rothenberg
 
     All rights reserved.  This program is free software; you can
     redistribute it and/or modify it under the same terms as Perl 
