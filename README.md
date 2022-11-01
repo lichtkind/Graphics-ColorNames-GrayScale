@@ -1,10 +1,10 @@
 ### NAME
 
-    Graphics-ColorNames-GrayScale - RGB values of gray colors
+    Graphics-ColorNames-GrayScale - RGB values of shades of gray and base colors
 
 ### VERSION
  
-    0.40
+    3.0
 
 [on CPAN](https://metacpan.org/pod/Graphics-ColorNames-GrayScale)
 
@@ -68,6 +68,11 @@
 ### AUTHOR
 
     Robert Rothenberg <rrwo at cpan.org>
+
+
+### MAINTAINER
+
+    Herbert Breunung <lichtkind at cpan.org>
 
 
 ### COPYRIGHT
