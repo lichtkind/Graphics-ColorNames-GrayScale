@@ -1,5 +1,10 @@
 
 use v5.12;
+use Benchmark;
+
+my $t = Benchmark->new;
+
+my $colors;
 
 for (0..255){
     my $hex = sprintf "%02x", $_;
@@ -41,7 +46,9 @@ for (0..100){
     }
     
 }
+say for keys %$colors;
 
+say "generated in ", timestr( timediff( $t, Benchmark->new) );
 __END__
 
           gray   => 0xffffff,
